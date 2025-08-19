@@ -253,6 +253,8 @@ class: text-left
 🍦 Cool Tips, Trends and Resources:
 - 🏖️ [PHP Sandbox](https://phpsandbox.io/)
 - ▶️ [Playlist: Me teaching PHP/mySQL at Georgian](https://www.youtube.com/playlist?list=PLhbE5nKJVCT--FKzucu-5gvjQparwTna7)
+- 💻 [DNS server types](https://www.cloudflare.com/learning/dns/dns-server-types/)
+- 🍁 [What is a CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
 <br>
 <hr>
@@ -260,6 +262,12 @@ class: text-left
 
 - 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 - ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
+
+---
+transition: slide-left
+---
+
+# 
 
 ---
 transition: slide-left
