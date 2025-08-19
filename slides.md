@@ -21,8 +21,6 @@ Unit 07 - Lesson 04
 
 - [ ] Buying a Domain Name
 - [ ] Connect our Domain Name to our app
-- [ ] Deploy options: Vercel, Netlify, Render, Github Pages, Cloudflare Pages, Amplify, etc.
-- [ ] Content Delivery Network (CDN)
 - [ ] DNS servers: Recursor, Root, TLD, and Authoritative
 - [ ] Lab: PHP continued, Input Validation, Edit and Delete functionality
 
