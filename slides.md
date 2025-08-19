@@ -255,6 +255,7 @@ class: text-left
 - ▶️ [Playlist: Me teaching PHP/mySQL at Georgian](https://www.youtube.com/playlist?list=PLhbE5nKJVCT--FKzucu-5gvjQparwTna7)
 - 💻 [DNS server types](https://www.cloudflare.com/learning/dns/dns-server-types/)
 - 🍁 [What is a CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- 🌱 [Concept of DNS Simplified](https://x.com/thebitdoodler/status/1418951041568022528)
 
 <br>
 <hr>
