@@ -46,6 +46,7 @@ transition: slide-left
 - For this class, get your credit card ready (if you wish), Buy a cheap domain name (I use namecheap.com) so we can practice connecting our Render apps to a legit domain
   - we'll go over the steps on how to buy a domain name
   - reminder: Github Education Pack gives a free `.me` domain for 1 year
+- will mark Weather App assignments over weekend
 
 ---
 transition: slide-left
