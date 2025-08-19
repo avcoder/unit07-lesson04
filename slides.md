@@ -269,7 +269,6 @@ transition: slide-left
 ---
 
 # DNS server types
-https://www.cloudflare.com/learning/dns/dns-server-types/
 
 - Recursive resolver
   - (aka DNS recursor) is the first stop in a DNS query
@@ -281,6 +280,19 @@ https://www.cloudflare.com/learning/dns/dns-server-types/
 - Authoritative nameserver
   - the last step in the journey for an IP address lookup
   - contains info specific to the domain name and responds with IP address
+
+
+
+---
+transition: slide-left
+---
+
+# What is a CDN?
+
+- CDN is a network of servers linked together with the goal of delivering content as quickly, cheaply, reliably and securely as possible
+- to be performant, CDN will place servers at strategic locations (at highly interconnected locations)
+
+<img src="/assets/cdn.png" style="height: 300px" >
 
 ---
 transition: slide-left
