@@ -41,7 +41,7 @@ transition: slide-left
 
 - career lab tmrw + tech lab tmrw at the same time
   - attend career lab first, then once finished come to the tech lab
-  - I will record PHP's Input Validation, Edit/Delete functionality during the time you're at career lab
+  - I will record PHP's Input Validation, Edit/Delete functionality during the time you're at career lab, (or save that material for another class)
   - Once career lab is finished and you're back to tech lab we can either do AMA, and/or go over the [Getting Started page with Docker](https://www.docker.com/get-started/)
 - For this class, get your credit card ready (if you wish), Buy a cheap domain name (I use namecheap.com) so we can practice connecting our Render apps to a legit domain
   - we'll go over the steps on how to buy a domain name
