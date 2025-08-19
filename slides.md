@@ -268,7 +268,19 @@ class: text-left
 transition: slide-left
 ---
 
-# 
+# DNS server types
+https://www.cloudflare.com/learning/dns/dns-server-types/
+
+- Recursive resolver
+  - (aka DNS recursor) is the first stop in a DNS query
+  - responds with either cached data, or send a request to a root, TLD, authoritative nameserver
+- Root nameserver
+  - receive query for domain name, and responds by directing to TLD nameserver
+- TLD nameserver
+  - maintains info for all ".com" domain names for example, responds with authoritative nameserver
+- Authoritative nameserver
+  - the last step in the journey for an IP address lookup
+  - contains info specific to the domain name and responds with IP address
 
 ---
 transition: slide-left
