@@ -243,7 +243,7 @@ transition: slide-left
 ---
 layout: image-right
 transition: slide-left
-image: /assets/addy.png
+image: /assets/break.png
 backgroundSize: 400px 300px
 class: text-left
 ---
