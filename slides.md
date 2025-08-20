@@ -388,3 +388,8 @@ transition: slide-left
 
 # PHP: Delete functionality
 
+---
+transition: slide-left
+---
+
+# PHP: Edit functionality
