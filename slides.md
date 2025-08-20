@@ -309,7 +309,18 @@ transition: slide-left
 transition: slide-left
 ---
 
-# Lab tmrw 
+# Lab: Serverless
+
+- read https://www.netlify.com/blog/intro-to-serverless-functions/
+- let's try to deploy a serverless function
+- create a voting app that calls an API (i.e. serverless function) and draws a dynamic chart based on live votes
+
+
+---
+transition: slide-left
+---
+
+# Lab  
 PHP continued: Server-side validation on blank fields
 
 - Problem: On the input form try entering a bunch of space characters for the game title
