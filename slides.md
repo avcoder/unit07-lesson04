@@ -320,6 +320,12 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Lab: Snipcart
+Add e-commerce to your site
+
+- Read https://snipcart.com/
+- Apply it to our php code
+
 # Lab  
 PHP continued: Server-side validation on blank fields
 
