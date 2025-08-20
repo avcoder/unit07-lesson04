@@ -22,7 +22,7 @@ Unit 07 - Lesson 04
 - [ ] Buying a Domain Name
 - [ ] Connect our Domain Name to our app
 - [ ] DNS servers: Recursor, Root, TLD, and Authoritative
-- [ ] Lab: PHP continued, Input Validation, Edit and Delete functionality
+- [ ] Lab: Serverless functions, Snipcart, PHP continued: Input Validation & Delete functionality
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
@@ -400,12 +400,6 @@ transition: slide-left
 
   header("Location: games.php") // redirect
   ```
-
----
-transition: slide-left
----
-
-# PHP: Edit functionality
 
 ---
 transition: slide-left
