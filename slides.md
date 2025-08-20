@@ -388,6 +388,19 @@ transition: slide-left
 
 # PHP: Delete functionality
 
+- in games.php
+  ```html
+  <td><a href="game-delete.php?game_id=<?php $game['game_id']?>">Delete</a></td>
+  ```
+
+- create game-delete.php
+  ```php
+  $id = $_GET['game_id'];
+  $sql = "DELETE FROM games WHERE game_id=" . $id // hard code 2 for now.  how do we pass id?
+
+  header("Location: games.php") // redirect
+  ```
+
 ---
 transition: slide-left
 ---
